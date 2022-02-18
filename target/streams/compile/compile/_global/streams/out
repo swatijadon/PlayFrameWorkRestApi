@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0m/home/treeleaf/Downloads/play-samples-play-java-hello-world-tutorial/conf/routes:9:1: value getAllBlogs is not a member of controllers.BlogController[0m
+[0m[[0m[31merror[0m] [0m[0mGET     /blog                          controllers.BlogController.getAllBlogs[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
